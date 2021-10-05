@@ -1,2 +1,2 @@
-Personal Portfolio
-Creating a Personal Porfolio refering to Kolade Chris' Blog in freeCodeCamp
+# Personal Portfolio
+Creating a Personal Porfolio reffering to Kolade Chris' Blog in freeCodeCamp
